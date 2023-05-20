@@ -1,0 +1,14 @@
+Introduzca conjunto de datos o FIN para terminar la ejecución:Launching partition  0
+Pasamos a la siguiente generación : 0.5271172638436482
+Pasamos a la siguiente generación : 0.5349348534201954
+Pasamos a la siguiente generación : 0.5414495114006515
+Pasamos a la siguiente generación : 0.5414495114006515
+Pasamos a la siguiente generación : 0.5414495114006515
+Pasamos a la siguiente generación : 0.5414495114006515
+Pasamos a la siguiente generación : 0.5414495114006515
+Pasamos a la siguiente generación : 0.5414495114006515
+Pasamos a la siguiente generación : 0.5414495114006515
+Pasamos a la siguiente generación : 0.5469055374592834
+Pasamos a la siguiente generación : 0.5469055374592834
+Pasamos a la siguiente generación : 0.5495114006514659
+Pasamos a la siguiente generación : 0.5495114006514659
